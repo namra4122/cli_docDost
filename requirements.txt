@@ -7,5 +7,6 @@ spacy>=3.5.0
 PyMuPDF>=1.22.0
 pandas>=2.0.0
 numpy>=1.24.0
-halo
-rich
+scipy>=1.12.0
+halo==0.0.31
+rich==13.9.2
